@@ -12,12 +12,4 @@ This version includes only the front-end code I contributed.
 - The full project used a .NET Core back end and followed a microservices architecture.
 - Tools used in development: Visual Studio Code, Jira, Bitbucket.
 
-## Credits
-
-Original project collaborators:
-- Gustas Linkus
-- Rokas Norvaišas
-- Paulius Osipauskas
-- Normantas Stankevičius
-- Lukas Vasiliauskas
 
